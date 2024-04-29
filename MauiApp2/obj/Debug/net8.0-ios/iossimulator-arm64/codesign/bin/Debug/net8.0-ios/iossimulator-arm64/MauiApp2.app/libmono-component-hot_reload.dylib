@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/dan/RiderProjects/MauiApp2/MauiApp2/bin/Debug/net8.0-ios/iossimulator-arm64/MauiApp2.app/libmono-component-hot_reload.dylib

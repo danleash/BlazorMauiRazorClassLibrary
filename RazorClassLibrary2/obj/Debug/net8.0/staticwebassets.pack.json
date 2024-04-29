@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/obj/Debug/net8.0/scopedcss/projectbundle/RazorClassLibrary2.bundle.scp.css",
+      "PackagePath": "staticwebassets/RazorClassLibrary2.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/wwwroot/background.png",
+      "PackagePath": "staticwebassets/background.png"
+    },
+    {
+      "Id": "/Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/wwwroot/exampleJsInterop.js",
+      "PackagePath": "staticwebassets/exampleJsInterop.js"
+    },
+    {
+      "Id": "/Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/wwwroot/lib/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/wwwroot/lib/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.RazorClassLibrary2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.RazorClassLibrary2.props",
+      "PackagePath": "build\\RazorClassLibrary2.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RazorClassLibrary2.props",
+      "PackagePath": "buildMultiTargeting\\RazorClassLibrary2.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RazorClassLibrary2.props",
+      "PackagePath": "buildTransitive\\RazorClassLibrary2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MauiApp2.props" />
+</Project>

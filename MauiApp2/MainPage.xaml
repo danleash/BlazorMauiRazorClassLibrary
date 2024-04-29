@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MauiApp2"
+             xmlns:razorClassLibrary2="clr-namespace:RazorClassLibrary2;assembly=RazorClassLibrary2"
+             x:Class="MauiApp2.MainPage">
+
+    <BlazorWebView x:Name="BlazorWebView" HostPage="wwwroot/index.html">
+        <BlazorWebView.RootComponents>
+            <RootComponent Selector="#app" ComponentType="{x:Type razorClassLibrary2:EntryApp}" />
+        </BlazorWebView.RootComponents>
+    </BlazorWebView>
+
+</ContentPage>
