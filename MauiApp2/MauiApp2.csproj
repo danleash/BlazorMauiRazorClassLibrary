@@ -29,7 +29,7 @@
         <!-- Versions -->
         <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
         <ApplicationVersion>1</ApplicationVersion>
-        <RuntimeIdentifier>ios-arm64;iossimulator-arm64</RuntimeIdentifier>
+<!--        <RuntimeIdentifier>ios-arm64;iossimulator-arm64</RuntimeIdentifier>-->
 
 
         <SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'ios'">14.2</SupportedOSPlatformVersion>
