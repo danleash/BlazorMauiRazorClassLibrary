@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "/Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/obj/Debug/net8.0/scopedcss/projectbundle/RazorClassLibrary2.bundle.scp.css",
-      "PackagePath": "staticwebassets/RazorClassLibrary2.bundle.scp.css"
-    },
-    {
       "Id": "/Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/wwwroot/background.png",
       "PackagePath": "staticwebassets/background.png"
     },

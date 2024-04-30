@@ -14,10 +14,9 @@
 /Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RazorClassLibrary2.props
 /Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RazorClassLibrary2.props
 /Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/obj/Debug/net8.0/staticwebassets.pack.json
-/Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/obj/Debug/net8.0/scopedcss/Component1.razor.rz.scp.css
 /Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/obj/Debug/net8.0/scopedcss/bundle/RazorClassLibrary2.styles.css
-/Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/obj/Debug/net8.0/scopedcss/projectbundle/RazorClassLibrary2.bundle.scp.css
 /Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/obj/Debug/net8.0/RazorClassLibrary2.dll
 /Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/obj/Debug/net8.0/refint/RazorClassLibrary2.dll
 /Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/obj/Debug/net8.0/RazorClassLibrary2.pdb
 /Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/obj/Debug/net8.0/ref/RazorClassLibrary2.dll
+/Users/dan/RiderProjects/MauiApp2/RazorClassLibrary2/obj/Debug/net8.0/RazorClassLibrary2.sourcelink.json
